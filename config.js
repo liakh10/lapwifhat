@@ -2,8 +2,8 @@
 window.SITE = {
   CA:      "SOON",                       /* строго "SOON" до лаунча, потом 0x… (42 символа) */
   X_URL:   "https://x.com/soon",
-  NAME:    "Laptop Wif Hat",
-  TICKER:  "$LWH",
+  NAME:    "Lapwifhat",
+  TICKER:  "$LAPWIFHAT",
   TAGLINE: ""
 };
 window.PONS_HOME = "https://www.ponsfamily.com/launchpad";
